@@ -3,12 +3,12 @@
 <!DOCTYPE employees SYSTEM "employees.dtd">
 <employees>
     <employee id="E001">
-        <name>Mehatab Sanadi</name>
+        <name>Siddhi Kshirsagar</name>
         <position>Software Engineer</position>
         <department>IT</department>
         <salary>70000</salary>
         <contact>
-            <email>mehatabsanadi94@example.com</email>
+            <email>sid@example.com</email>
             <phone>+1234567890</phone>
         </contact>
     </employee>
